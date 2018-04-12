@@ -28,8 +28,8 @@
 
         <source-file src="src/android/BraintreePlugin.java" target-dir="src/net/justincredible" />
 
-        <framework src="com.android.support:support-v13:26.0.0" />
-        <framework src="com.android.support:appcompat-v7:26.0.0" />
+        <framework src="com.android.support:support-v13:26.+" />
+        <framework src="com.android.support:appcompat-v7:26.+" />
         <framework src="src/android/build-extras.gradle" custom="true" type="gradleReference" />
 
         <config-file target="AndroidManifest.xml" parent="application">
