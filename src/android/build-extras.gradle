@@ -9,7 +9,7 @@ android {
 
 dependencies {
     compile 'com.braintreepayments.api:drop-in:3.+'
-    compile 'com.google.android.gms:play-services-wallet:15.0.1'
+    compile 'com.google.android.gms:play-services-wallet:15.+'
     compile 'io.card:android-sdk:5.5.1'
 }
 
